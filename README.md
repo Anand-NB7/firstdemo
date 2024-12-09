@@ -1,4 +1,5 @@
 # firstdemo
 this is my first repository
 author - anand
-apna college
+apna collegegit config --list
+this is my practice league 
